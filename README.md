@@ -13,7 +13,7 @@ Excelerate is a modern Flutter app that helps learners discover courses, browse 
 
 ## Tech Stack
 
-- Flutter (Material 3)
+- Flutter
 - Dart
 - Clean widget structure with reusable components
 
@@ -32,11 +32,9 @@ Excelerate is a modern Flutter app that helps learners discover courses, browse 
   <img src="screenshots/profile.png" alt="Profile" width="220"/>
 </p>
 
-> Tip: Keep widths around 220–260 to maintain a nice grid in GitHub’s markdown renderer.
-
 ## Getting Started
 
-1. Install Flutter (stable channel).
+1. Install Flutter
 2. Fetch dependencies:
 ```bash
 - flutter pub get
