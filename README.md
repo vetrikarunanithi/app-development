@@ -18,19 +18,13 @@ Excelerate is a modern Flutter app that helps learners discover courses, browse 
 - Clean widget structure with reusable components
 
 ## Screenshots
+| Splash | Login | Home |
+|--------|-------|------|
+| <img src="screenshots/splash.png" width="220"> | <img src="screenshots/login.png" width="220"> | <img src="screenshots/home.png" width="220"> |
 
-<p align="center">
-  <img src="screenshots/splash.png" alt="Splash" width="220"/>
-  <img src="screenshots/login.png" alt="Login" width="220"/>
-  <img src="screenshots/home.png" alt="Home" width="220"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/search.png" alt="Program List" width="220"/>
-  <img src="screenshots/overview.png" alt="Course Details" width="220"/>
-  <img src="screenshots/community.png" alt="Community" width="220"/>
-  <img src="screenshots/profile.png" alt="Profile" width="220"/>
-</p>
+| Program List | Course Details | Community | Profile |
+|--------------|----------------|-----------|--------|
+| <img src="screenshots/search.png" width="220"> | <img src="screenshots/overview.png" width="220"> | <img src="screenshots/community.png" width="220"> | <img src="screenshots/profile.png" width="220"> |
 
 ## Getting Started
 
