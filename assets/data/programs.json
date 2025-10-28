@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Flutter for Beginners",
+    "duration": "5h",
+    "level": "Beginner",
+    "description": "Learn Flutter from scratch",
+    "rating": 4.5,
+    "reviewCount": 120,
+    "mode": "Online",
+    "language": "English",
+    "priceLabel": "Free"
+  },
+  {
+    "id": "2",
+    "title": "Advanced Dart",
+    "duration": "3h",
+    "level": "Intermediate",
+    "description": "Deep dive into Dart",
+    "rating": 4.8,
+    "reviewCount": 85,
+    "mode": "Online",
+    "language": "English",
+    "priceLabel": "$19.99"
+  }
+]

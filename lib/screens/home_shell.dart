@@ -16,12 +16,12 @@ class HomeShell extends StatefulWidget {
 class _HomeShellState extends State<HomeShell> {
   int index = 0;
 
-  final pages = const [
-    HomeDashboard(),
-    EventsScreen(),
-    CommunityScreen(),
-    ProfileScreen(),
-  ];
+final pages = const [
+  HomeDashboard(),
+  EventsScreen(),
+  CommunityScreen(),
+  ProfileScreen(),
+];
 
   @override
   Widget build(BuildContext context) {

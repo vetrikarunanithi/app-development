@@ -137,8 +137,9 @@ class _LoginScreenState extends State<LoginScreen> {
                       label: 'Login',
                       onPressed: () => Navigator.pushReplacement(
                         context,
-                        MaterialPageRoute(builder: (_) => const HomeShell()),
+                        MaterialPageRoute(builder: (_) => const HomeShell()),  // Not HomeScreen
                       ),
+
                     ),
 
                     const SizedBox(height: 18),

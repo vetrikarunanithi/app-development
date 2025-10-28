@@ -58,7 +58,7 @@ class ProgramListScreen extends StatelessWidget {
               _ProgramItem(
                 color: AppColors.accent, title: "Front-end Developer Internship", weeks: 4,
                 onTap: () => Navigator.push(
-                  context, MaterialPageRoute(builder: (_) => const ProgramDetailsScreen())),
+                  context, MaterialPageRoute(builder: (_) => const ProgramDetailsScreen(programId: "1"))),
               ),
               _ProgramItem(
                 color: Colors.blueGrey.shade100, title: "Back-end Developer", weeks: 4, onTap: () {},
