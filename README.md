@@ -30,6 +30,10 @@ Excelerate is a modern Flutter app that helps learners discover courses, browse 
 |--------------|----------------|-----------|--------|
 | <img src="screenshots/search.png" width="220"> | <img src="screenshots/overview.png" width="220"> | <img src="screenshots/community.png" width="220"> | <img src="screenshots/profile.png" width="220"> |
 
+| Updated Homepage with API Integration | API Course Details | Feedback System | Feedback Success |
+|--------------|----------------|-----------|--------|
+| <img src="screenshots/api_home.png" width="220"> | <img src="screenshots/api_course_detail.png" width="220"> | <img src="screenshots/feedback.png" width="220"> | <img src="screenshots/feedback_success.png" width="220"> |
+
 ## Getting Started
 
 1. Install Flutter
